@@ -1,0 +1,5 @@
+{
+  "name": "SRT Bulk Translator",
+  "description": "An application to upload multiple .srt subtitle files, translate their content to Spanish using the Gemini API, and download the translated versions while preserving all original timing and formatting.",
+  "requestFramePermissions": []
+}
